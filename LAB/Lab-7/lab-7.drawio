@@ -1,0 +1,393 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.0.7">
+  <diagram name="หน้า-1" id="Oi0tsMdzcpsb-fxznbwA">
+    <mxGraphModel dx="1688" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-2" target="scLSkdoXmvEnEPf9tZEV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-3" target="scLSkdoXmvEnEPf9tZEV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-3" value="กำหนดตัวแปร เก็บตัวเลขที่ป้อนมา" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-5" target="scLSkdoXmvEnEPf9tZEV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-5" value="กำหนดตัวแปร เก็บค่าตัวเลขแสดงค่าที่สูงที่สุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-7" target="scLSkdoXmvEnEPf9tZEV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-7" value="กำหนดตัวแปร เก็บตัวเลขแสดงค่าที่ต่ำที่สุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-9" target="scLSkdoXmvEnEPf9tZEV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-9" value="กำหนดตัวแปร เก็บคะแนน" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-11" target="scLSkdoXmvEnEPf9tZEV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-11" value="กำหนดตัวแปร เก็บค่าที่ป้อนเข้ามา" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-15" target="scLSkdoXmvEnEPf9tZEV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-15" value="กำหนดตัวแปร เก็บค่าที่ตัวเลขที่สุ่มได้" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-17" target="scLSkdoXmvEnEPf9tZEV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-17" target="scLSkdoXmvEnEPf9tZEV-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.5" y="4720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="1020" />
+              <mxPoint x="-150" y="4680" />
+              <mxPoint x="413" y="4680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-17" value="หากเก็บค่าที่ป้อนได้ไม่เท่ากับ -1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="980" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-19" target="scLSkdoXmvEnEPf9tZEV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-19" value="สุ่มตัวเลข เก็บในตัวแปรตัวเลขที่สุ่มได้" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-32" target="scLSkdoXmvEnEPf9tZEV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-32" value="แสดงข้อความ&lt;div&gt;&quot;&amp;nbsp;Do you want to play game (1=play,-1=exit) &quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1710" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-34" target="scLSkdoXmvEnEPf9tZEV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-34" value="รับค่าที่ป้อนใน&lt;div&gt;ตัวแปรค่าที่ป้อนเข้ามา&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1850" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-35" target="scLSkdoXmvEnEPf9tZEV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-35" target="scLSkdoXmvEnEPf9tZEV-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-35" value="หากเก็บค่าที่ป้อนได้เท่ากับ 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="1980" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-36" target="scLSkdoXmvEnEPf9tZEV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-36" value="100 =&amp;gt; ตัวเลขแสดงค่าที่สูงที่สุด&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-38" target="scLSkdoXmvEnEPf9tZEV-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-38" value="1 =&amp;gt; ตัวเลขแสดงค่าที่ต่ำที่สุด&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-40" target="scLSkdoXmvEnEPf9tZEV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-40" value="100 =&amp;gt; คะแนน" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-51" target="scLSkdoXmvEnEPf9tZEV-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-51" value="แสดงข้อความ&lt;div&gt;จำนวนคะแนนของตัวแปรคะแนน&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="2150" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-55" target="scLSkdoXmvEnEPf9tZEV-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-55" value="หากค่าตัวเลขสุ่ม ไม่เท่ากับ&amp;nbsp;&lt;div&gt;ตัวเลขที่ป้อนมา&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="2280" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-59" target="scLSkdoXmvEnEPf9tZEV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-59" value="แสดง&lt;div&gt;&quot;&amp;nbsp;Guess the winning&amp;nbsp;&lt;/div&gt;&lt;div&gt;number (ต่ำสุด-สูงสุด) &quot;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="2450" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-61" target="scLSkdoXmvEnEPf9tZEV-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-61" value="รับค่าที่ป้อนเข้ามาใส่ใน ตัวแปร&lt;div&gt;ตัวเลขที่่ป้อนมา&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="2590" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-65" target="scLSkdoXmvEnEPf9tZEV-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-81" target="scLSkdoXmvEnEPf9tZEV-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="2950" />
+              <mxPoint x="196" y="3030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-65" value="หากค่า&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ตัวเลขที่ป้อนมา&lt;br&gt;&amp;lt; ตัวเลขที่สุ่ม&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="2720" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-67" target="scLSkdoXmvEnEPf9tZEV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-67" value="ลบคะแนนลง 10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-69" target="scLSkdoXmvEnEPf9tZEV-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-69" value="ลบค่าตัวเลขที่ป้อนลง 1&lt;div&gt;เก็บในค่าสูงที่สุด&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-73" target="scLSkdoXmvEnEPf9tZEV-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-73" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Sorry, the winning number is HIGHER than ตัวเลขที่ป้อน. (Score=คะแนน)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="3170" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-76" target="scLSkdoXmvEnEPf9tZEV-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-76" value="ลบคะแนนลง 10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-78" target="scLSkdoXmvEnEPf9tZEV-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-78" value="เพิ่มค่าตัวเลขที่ป้อนขึ้น 1&lt;div&gt;เก็บในค่าสูงที่สุด&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="3170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-79" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Sorry, the winning number is LOWER than ตัวเลขที่ป้อน. (Score=คะแนน)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3310" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-65" target="scLSkdoXmvEnEPf9tZEV-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="2760" as="sourcePoint" />
+            <mxPoint x="196" y="3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-81" target="scLSkdoXmvEnEPf9tZEV-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-81" value="หากค่า&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ตัวเลขที่ป้อนมา&lt;br&gt;= ตัวเลขที่สุ่ม&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2870" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-79" target="scLSkdoXmvEnEPf9tZEV-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.0000000000002" y="3339.5555555555557" as="targetPoint" />
+            <mxPoint x="272" y="3340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-87" target="scLSkdoXmvEnEPf9tZEV-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405" y="3332" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-94" target="scLSkdoXmvEnEPf9tZEV-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-94" target="scLSkdoXmvEnEPf9tZEV-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="3450" />
+              <mxPoint x="660" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-94" value="หากคะแนนเป็น 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="3410" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-98" target="scLSkdoXmvEnEPf9tZEV-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-98" value="แสดง&lt;div&gt;&quot;&amp;nbsp;Game Over&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="3580" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-103" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="2730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-104" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="2800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-105" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-106" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="3772.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405.5" y="3710" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-139" target="scLSkdoXmvEnEPf9tZEV-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="3718" as="targetPoint" />
+            <mxPoint x="308" y="2320" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-112" target="scLSkdoXmvEnEPf9tZEV-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2902.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-117" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-118" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-122" target="scLSkdoXmvEnEPf9tZEV-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-122" target="scLSkdoXmvEnEPf9tZEV-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="3810" />
+              <mxPoint x="560" y="4227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-122" value="หากคะแนนมี &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="3770" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-125" target="scLSkdoXmvEnEPf9tZEV-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-125" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;That is correct! The winning number is ตัวเลขที่ป้อน. &quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="3940" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-127" target="scLSkdoXmvEnEPf9tZEV-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-127" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;Score this game: คะแนน &quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="4080" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-133" target="scLSkdoXmvEnEPf9tZEV-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-133" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405.5" y="4220" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-55" target="scLSkdoXmvEnEPf9tZEV-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" y="2903" as="targetPoint" />
+            <mxPoint x="307" y="2320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="30" y="2320" />
+              <mxPoint x="30" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-139" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2312.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-141" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="3780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-142" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-145" target="scLSkdoXmvEnEPf9tZEV-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-145" target="scLSkdoXmvEnEPf9tZEV-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="4580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="4320" />
+              <mxPoint x="250" y="4598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-145" value="หากเก็บค่าที่ป้อนได้ไม่เท่ากับ 1และ-1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="4280" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-149" target="scLSkdoXmvEnEPf9tZEV-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-149" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;Please Enter only 1 or -1&amp;nbsp;&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="4450" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-153" target="scLSkdoXmvEnEPf9tZEV-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="4598" />
+              <mxPoint x="940" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-153" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4590" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-156" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="4290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-157" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="4360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-160" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="272" y="2290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-161" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="2360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-162" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="2060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-163" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-164" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276.5" y="990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-165" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scLSkdoXmvEnEPf9tZEV-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.5" y="4860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-168" value="แสดง&lt;div&gt;&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;See you again.&amp;nbsp;&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="4720" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-171" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="4860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-173" value="break" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3660" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scLSkdoXmvEnEPf9tZEV-174" value="break" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2880" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
