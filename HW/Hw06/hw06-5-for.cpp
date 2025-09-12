@@ -10,7 +10,7 @@ int main(){
 
     if ( num <=1 ) { 
         // หาก num มีค่าน้อนกว่าหรือเท่ากับ 1 จะไม่หาจำนวนเฉพาะ
-        printf( "Please enter the number positive integer.\n" ) ;
+        printf( "Please enter a number greater than 1.\n" ) ;
     } else {
         for ( ; 2 <= num ; num-- ) { 
             // เรียงเลขจากมากไปน้อย

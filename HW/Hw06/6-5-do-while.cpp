@@ -9,7 +9,7 @@ int main(){
     scanf( " %d" , &num ) ;
 
     if (num <= 1 ) {
-        printf( "Please enter the number positive integer." ) ;
+        printf( "Please enter a number greater than 1." ) ;
     } else {
         do{
             n = 2 ;
