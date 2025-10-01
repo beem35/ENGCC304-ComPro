@@ -18,8 +18,7 @@ int main(){
         temp = text[j] ;
         text2[len-j-1] = temp ;
     }//end for
-
-    
+    text2[len] = '\0';
 
     if ( strcmp(text,text2) == 0 ) {
         printf( "\nPass." ) ;
