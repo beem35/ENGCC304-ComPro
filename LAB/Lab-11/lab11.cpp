@@ -23,7 +23,7 @@ void arm_num( char n[] ) {
     int sum2 = 0 ;
     int len_num = strlen( n ) ;
     char temp ;
-    printf("%d", '0') ;
+    // printf("%d", '0') ;
     for ( int i = 0 ; i < len_num ; i++ ) {
         temp = n[ i ] ;
         num[ i ] = temp - '0';
