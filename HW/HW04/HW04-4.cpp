@@ -16,8 +16,10 @@
 #include <stdio.h>
 int main() {
     float hg = 0.0, wd = 0.0 ;
-    printf( "Enter H & W : \n" ) ;
-    scanf( " %f %f ", &hg, &wd ) ;
+    printf( "Enter H : " ) ;
+    scanf( " %f", &hg ) ;
+    printf( "Enter W : " ) ;
+    scanf( " %f", &wd ) ;
 
     float ar = (hg * wd) / 2.0 ;
     
