@@ -15,7 +15,7 @@ int isPrime ( int num ) {
   int main() {
     int n ;
     printf( "Enter N : " ) ;
-    scanf( " %d " , &n ) ;
+    scanf( " %d" , &n ) ;
 
     int arr [n] ; 
     for( int i = 0 ; i < n ; i++ ) {
