@@ -18,7 +18,7 @@ int main() {
 
 int countword( char *filename ) {
     FILE *file = fopen(filename, "r") ;
-    if ( !file ) {
+    if ( file == NULL ) {
         printf("ไม่สามารถเปิดไฟล์ %s ได้\n", filename) ;
         return -1 ;
     }
@@ -31,7 +31,7 @@ int countword( char *filename ) {
         if ( isspace(ch) ) { // ถ้าเจอ whitespace
             inword = 0;    // สิ้นสุดคำ
         } else {
-            if ( !inword ) {
+            if ( inword == 0 ) {
                 word_count++ ; // เจอเริ่มคำใหม่
                 inword = 1 ;
             }
